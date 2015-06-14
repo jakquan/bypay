@@ -43,7 +43,7 @@ MEMCACHE.port=10009
 
 # 函数调用
 
-###bypay_version
+##bypay_version
 
 ###Description
 ```php
